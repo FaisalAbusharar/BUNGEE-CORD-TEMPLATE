@@ -1,0 +1,123 @@
+[20:31:44] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:31:44] [Server thread/INFO]: Loading properties
+[20:31:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:31:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[20:31:44] [Server thread/INFO]: Debug logging is disabled
+[20:31:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[20:31:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:31:44] [Server thread/INFO]: Generating keypair
+[20:31:44] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:31:44] [Server thread/INFO]: Using epoll channel type
+[20:31:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:31:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:31:44] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:31:44] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:31:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:31:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:31:44] [Server thread/INFO]: Preparing level "world"
+[20:31:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:31:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mob Spawn Range: 4
+[20:31:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:31:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:31:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:31:44] [Server thread/INFO]: Random Lighting Updates: false
+[20:31:44] [Server thread/INFO]: Structure Info Saving: true
+[20:31:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:31:44] [Server thread/INFO]: Max TNT Explosions: 100
+[20:31:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:31:44] [Server thread/INFO]: View Distance: 10
+[20:31:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:31:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:31:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:31:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:31:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:31:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:31:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:31:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:31:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mob Spawn Range: 4
+[20:31:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:31:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:31:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:31:44] [Server thread/INFO]: Random Lighting Updates: false
+[20:31:44] [Server thread/INFO]: Structure Info Saving: true
+[20:31:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:31:44] [Server thread/INFO]: Max TNT Explosions: 100
+[20:31:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:31:44] [Server thread/INFO]: View Distance: 10
+[20:31:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:31:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:31:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:31:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:31:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:31:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:31:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:31:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:31:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:31:44] [Server thread/INFO]: Mob Spawn Range: 4
+[20:31:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:31:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:31:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:31:44] [Server thread/INFO]: Random Lighting Updates: false
+[20:31:44] [Server thread/INFO]: Structure Info Saving: true
+[20:31:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:31:44] [Server thread/INFO]: Max TNT Explosions: 100
+[20:31:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:31:44] [Server thread/INFO]: View Distance: 10
+[20:31:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:31:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:31:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:31:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:31:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:31:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:31:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:31:44] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7915406354219766450)
+[20:31:45] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7915406354219766450)
+[20:31:46] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7915406354219766450)
+[20:31:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:31:46] [Server thread/INFO]: Done (1.730s)! For help, type "help" or "?"
+[21:37:58] [User Authenticator #1/INFO]: UUID of player PureVoidy is 134cab39-ddfd-3118-9ef2-8d3ac155b5ac
+[21:37:58] [Server thread/INFO]: PureVoidy[/[0:0:0:0:0:0:0:1]:34857] logged in with entity id 335 at ([world]-124.69999998807907, 39.0, 230.55052512204747)
+[21:38:08] [Server thread/INFO]: PureVoidy issued server command: /weather clear
+[21:38:08] [Server thread/INFO]: [PureVoidy: Changing to clear weather]
+[21:38:12] [Server thread/INFO]: PureVoidy issued server command: /time set day
+[21:38:12] [Server thread/INFO]: [PureVoidy: Set the time to 1000]
+[21:38:14] [Server thread/INFO]: PureVoidy lost connection: Disconnected
+[21:38:14] [Server thread/INFO]: PureVoidy left the game
+[21:42:30] [User Authenticator #2/INFO]: UUID of player PureVoidy is 134cab39-ddfd-3118-9ef2-8d3ac155b5ac
+[21:42:30] [Server thread/INFO]: PureVoidy[/[0:0:0:0:0:0:0:1]:38887] logged in with entity id 572 at ([world]-98.14149460986125, 37.0, 217.53130576850717)
+[22:33:54] [Server thread/INFO]: PureVoidy lost connection: Disconnected
+[22:33:54] [Server thread/INFO]: PureVoidy left the game
+[22:34:00] [User Authenticator #3/INFO]: UUID of player PureVoidy is 134cab39-ddfd-3118-9ef2-8d3ac155b5ac
+[22:34:00] [Server thread/INFO]: PureVoidy[/192.168.1.35:41309] logged in with entity id 1957 at ([world]-98.14149460986125, 37.0, 217.53130576850717)
+[22:35:48] [Server thread/INFO]: PureVoidy lost connection: Disconnected
+[22:35:48] [Server thread/INFO]: PureVoidy left the game

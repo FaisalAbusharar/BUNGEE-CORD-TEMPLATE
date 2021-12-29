@@ -1,0 +1,1316 @@
+16:59:35 [INFO] Using mbed TLS based native cipher.
+16:59:35 [INFO] Using zlib based native compressor.
+16:59:35 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+16:59:35 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:59:35 [INFO] Epoll is working, utilising it!
+16:59:35 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:59:35 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:35 [INFO] Attempting to Jenkins download module cmd_alert v1625
+
+16:59:37 [INFO] Download complete
+
+16:59:37 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:37 [INFO] Attempting to Jenkins download module cmd_find v1625
+
+16:59:37 [INFO] Download complete
+
+16:59:37 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:37 [INFO] Attempting to Jenkins download module cmd_list v1625
+
+16:59:37 [INFO] Download complete
+
+16:59:37 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:37 [INFO] Attempting to Jenkins download module cmd_send v1625
+
+16:59:37 [INFO] Download complete
+
+16:59:37 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:37 [INFO] Attempting to Jenkins download module cmd_server v1625
+
+16:59:38 [INFO] Download complete
+
+16:59:38 [INFO] Attempting to update plugin from null to ModuleVersion(build=1625, git=b4ccdaa)
+
+16:59:38 [INFO] Attempting to Jenkins download module reconnect_yaml v1625
+
+16:59:38 [INFO] Download complete
+
+16:59:38 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [WARNING] Forced host server pvp is not defined
+16:59:38 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+16:59:38 [INFO] Listening on /0.0.0.0:25577
+17:00:36 [INFO] Closing listener [id: 0xf420f363, L:/[0:0:0:0:0:0:0:0%0]:25577]
+17:00:36 [INFO] Closing pending connections
+17:00:36 [INFO] Disconnecting 0 connections
+17:00:36 [INFO] Saving reconnect locations
+17:00:36 [INFO] Disabling plugins
+17:00:36 [INFO] Closing IO threads
+17:00:38 [INFO] Thank you and goodbye
+17:19:14 [INFO] Using mbed TLS based native cipher.
+17:19:14 [INFO] Using zlib based native compressor.
+17:19:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+17:19:15 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:19:15 [INFO] Epoll is working, utilising it!
+17:19:15 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:19:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [WARNING] Forced host server pvp is not defined
+17:19:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:19:15 [INFO] Listening on /0.0.0.0:25565
+17:21:10 [INFO] [/127.0.0.1:37034] <-> InitialHandler has connected
+17:21:11 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+17:21:11 [INFO] [PureVoidy] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+17:21:11 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+17:21:11 [INFO] [PureVoidy] <-> ServerConnector [lobby] has disconnected
+17:22:53 [INFO] §cCommand not found
+17:22:57 [INFO] §cCommand not found
+17:22:59 [INFO] §cCommand not found
+17:23:02 [INFO] Closing listener [id: 0xe1e3f1c7, L:/[0:0:0:0:0:0:0:0%0]:25565]
+17:23:02 [INFO] Closing pending connections
+17:23:02 [INFO] Disconnecting 0 connections
+17:23:02 [INFO] Saving reconnect locations
+17:23:02 [INFO] Disabling plugins
+17:23:03 [INFO] Closing IO threads
+17:23:10 [INFO] Using mbed TLS based native cipher.
+17:23:10 [INFO] Using zlib based native compressor.
+17:23:10 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+17:23:10 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:23:10 [INFO] Epoll is working, utilising it!
+17:23:10 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:23:10 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [WARNING] Forced host server pvp is not defined
+17:23:10 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+17:23:10 [INFO] Listening on /0.0.0.0:25565
+17:23:21 [INFO] [/127.0.0.1:37036] <-> InitialHandler has connected
+17:23:22 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+17:23:36 [INFO] [PureVoidy] <-> ServerConnector [factions] has connected
+17:23:37 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+17:23:40 [INFO] [PureVoidy] <-> ServerConnector [smp] has connected
+17:23:40 [INFO] [PureVoidy] <-> DownstreamBridge <-> [factions] has disconnected
+17:23:42 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+17:23:42 [INFO] [PureVoidy] <-> DownstreamBridge <-> [smp] has disconnected
+17:25:17 [WARNING] [PureVoidy] -> UpstreamBridge - NativeIoException: readAddress(..) failed: Connection reset by peer
+17:25:17 [INFO] [PureVoidy] disconnected with: §fNativeIoException : readAddress(..) failed: Connection reset by peer
+17:25:17 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+17:25:17 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+17:25:23 [SEVERE] Exception in thread "main" 
+17:25:23 [SEVERE] java.io.IOException: Input/output error
+
+17:25:23 [INFO] Closing listener [id: 0x2c50b7ff, L:/[0:0:0:0:0:0:0:0%0]:25565]
+17:25:23 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+17:25:23 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+17:25:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+17:25:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+17:25:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+17:25:23 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+17:25:23 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+17:25:23 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+17:25:23 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+17:25:23 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+17:25:23 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+17:25:23 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+17:25:23 [INFO] Closing pending connections
+17:25:23 [INFO] Disconnecting 0 connections
+17:25:23 [INFO] Saving reconnect locations
+17:25:23 [INFO] Disabling plugins
+17:25:23 [INFO] Closing IO threads
+18:15:59 [INFO] Using mbed TLS based native cipher.
+18:15:59 [INFO] Using zlib based native compressor.
+18:15:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+18:15:59 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:15:59 [INFO] Epoll is working, utilising it!
+18:15:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:15:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [WARNING] Forced host server pvp is not defined
+18:15:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:15:59 [INFO] Listening on /0.0.0.0:25565
+18:28:47 [INFO] [/127.0.0.1:37042] <-> InitialHandler has pinged
+18:28:47 [INFO] [PureVoidy,/127.0.0.1:37038] <-> InitialHandler has connected
+18:28:47 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+18:28:50 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+18:28:50 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+18:29:00 [INFO] [PureVoidy,/192.168.1.35:37500] <-> InitialHandler has connected
+18:29:00 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+18:29:02 [INFO] [/192.168.1.35:37502] <-> InitialHandler has pinged
+18:29:17 [INFO] [/192.168.1.35:37504] <-> InitialHandler has pinged
+18:29:32 [INFO] [/192.168.1.35:37506] <-> InitialHandler has pinged
+18:29:47 [INFO] [/192.168.1.35:37508] <-> InitialHandler has pinged
+18:30:02 [INFO] [/192.168.1.35:37510] <-> InitialHandler has pinged
+18:30:17 [INFO] [/192.168.1.35:37514] <-> InitialHandler has pinged
+18:30:17 [INFO] §cCommand not found
+18:30:32 [INFO] [/192.168.1.35:37516] <-> InitialHandler has pinged
+18:30:47 [INFO] [/192.168.1.35:37518] <-> InitialHandler has pinged
+18:31:02 [WARNING] [/192.168.1.35:37516] <-> InitialHandler - read timed out
+18:31:02 [INFO] [/192.168.1.35:37520] <-> InitialHandler has pinged
+18:31:17 [INFO] [/192.168.1.35:37522] <-> InitialHandler has pinged
+18:31:32 [INFO] [/192.168.1.35:37524] <-> InitialHandler has pinged
+18:31:47 [INFO] [/192.168.1.35:37526] <-> InitialHandler has pinged
+18:32:02 [WARNING] [/192.168.1.35:37524] <-> InitialHandler - read timed out
+18:32:02 [INFO] [/192.168.1.35:37528] <-> InitialHandler has pinged
+18:32:17 [WARNING] [/192.168.1.35:37526] <-> InitialHandler - read timed out
+18:32:17 [INFO] [/192.168.1.35:37530] <-> InitialHandler has pinged
+18:32:19 [INFO] [PureVoidy] <-> ServerConnector [smp] has connected
+18:32:19 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+18:32:25 [INFO] [PureVoidy] <-> ServerConnector [factions] has connected
+18:32:26 [INFO] [PureVoidy] <-> DownstreamBridge <-> [smp] has disconnected
+18:32:30 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+18:32:30 [INFO] [PureVoidy] <-> DownstreamBridge <-> [factions] has disconnected
+18:34:18 [INFO] [PureVoidy,/[0:0:0:0:0:0:0:1%0]:43434] <-> InitialHandler has connected
+18:34:18 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+18:34:27 [INFO] [/127.0.0.1:37044] <-> InitialHandler has pinged
+18:34:42 [INFO] [/127.0.0.1:37046] <-> InitialHandler has pinged
+18:34:57 [WARNING] [/127.0.0.1:37044] <-> InitialHandler - read timed out
+18:34:57 [INFO] [/127.0.0.1:37048] <-> InitialHandler has pinged
+18:35:12 [INFO] [/127.0.0.1:37050] <-> InitialHandler has pinged
+18:35:27 [INFO] [/127.0.0.1:37052] <-> InitialHandler has pinged
+18:35:42 [INFO] [/127.0.0.1:37054] <-> InitialHandler has pinged
+18:35:57 [INFO] [/127.0.0.1:37056] <-> InitialHandler has pinged
+18:36:12 [WARNING] [/127.0.0.1:37054] <-> InitialHandler - read timed out
+18:36:27 [INFO] [/127.0.0.1:37060] <-> InitialHandler has pinged
+18:36:42 [WARNING] [/127.0.0.1:37058] <-> InitialHandler - read timed out
+18:36:42 [INFO] [/127.0.0.1:37062] <-> InitialHandler has pinged
+18:36:57 [INFO] [/127.0.0.1:37064] <-> InitialHandler has pinged
+18:37:12 [INFO] [/127.0.0.1:37066] <-> InitialHandler has pinged
+18:37:12 [WARNING] [/127.0.0.1:37062] <-> InitialHandler - read timed out
+18:37:27 [INFO] [/127.0.0.1:37068] <-> InitialHandler has pinged
+18:37:27 [WARNING] [/127.0.0.1:37064] <-> InitialHandler - read timed out
+18:37:42 [INFO] [/127.0.0.1:37070] <-> InitialHandler has pinged
+18:37:57 [INFO] [/127.0.0.1:37074] <-> InitialHandler has pinged
+18:38:12 [INFO] [/127.0.0.1:37076] <-> InitialHandler has pinged
+18:38:27 [INFO] [/127.0.0.1:37080] <-> InitialHandler has pinged
+18:38:42 [WARNING] [/127.0.0.1:37076] <-> InitialHandler - read timed out
+18:38:42 [INFO] [/127.0.0.1:37082] <-> InitialHandler has pinged
+18:39:12 [WARNING] [/127.0.0.1:37082] <-> InitialHandler - read timed out
+18:39:21 [INFO] Closing listener [id: 0x16b667d9, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:39:21 [INFO] Closing pending connections
+18:39:21 [INFO] Disconnecting 1 connections
+18:39:21 [INFO] [PureVoidy] disconnected with: §f[Proxy] Proxy restarting.
+18:39:21 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+18:39:21 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+18:39:22 [INFO] Saving reconnect locations
+18:39:22 [INFO] Disabling plugins
+18:39:22 [INFO] Closing IO threads
+18:39:30 [INFO] Using mbed TLS based native cipher.
+18:39:30 [INFO] Using zlib based native compressor.
+18:39:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+18:39:30 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:39:30 [INFO] Epoll is working, utilising it!
+18:39:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:39:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [WARNING] Forced host server pvp is not defined
+18:39:30 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:39:30 [INFO] Listening on /0.0.0.0:25565
+18:40:15 [INFO] [/127.0.0.1:37088] <-> InitialHandler has pinged
+18:40:15 [INFO] [PureVoidy,/[0:0:0:0:0:0:0:1%0]:43436] <-> InitialHandler has connected
+18:40:15 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+18:40:45 [INFO] [/127.0.0.1:37092] <-> InitialHandler has pinged
+18:41:00 [WARNING] [/127.0.0.1:37090] <-> InitialHandler - read timed out
+18:41:00 [INFO] [/127.0.0.1:37094] <-> InitialHandler has pinged
+18:41:15 [INFO] [/127.0.0.1:37096] <-> InitialHandler has pinged
+18:41:30 [INFO] [/127.0.0.1:37098] <-> InitialHandler has pinged
+18:41:30 [WARNING] [/127.0.0.1:37094] <-> InitialHandler - read timed out
+18:41:45 [INFO] [/127.0.0.1:37100] <-> InitialHandler has pinged
+18:42:00 [INFO] [/127.0.0.1:37102] <-> InitialHandler has pinged
+18:42:15 [WARNING] [/127.0.0.1:37100] <-> InitialHandler - read timed out
+18:42:15 [INFO] [/127.0.0.1:37104] <-> InitialHandler has pinged
+18:42:30 [INFO] [/127.0.0.1:37106] <-> InitialHandler has pinged
+18:42:45 [INFO] [/127.0.0.1:37108] <-> InitialHandler has pinged
+18:42:45 [WARNING] [/127.0.0.1:37104] <-> InitialHandler - read timed out
+18:43:00 [INFO] [/127.0.0.1:37110] <-> InitialHandler has pinged
+18:43:00 [WARNING] [/127.0.0.1:37106] <-> InitialHandler - read timed out
+18:43:05 [INFO] Closing listener [id: 0x173a1836, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:43:05 [INFO] Closing pending connections
+18:43:05 [INFO] Disconnecting 1 connections
+18:43:05 [INFO] [PureVoidy] disconnected with: §f[Proxy] Proxy restarting.
+18:43:05 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+18:43:05 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+18:43:05 [INFO] Saving reconnect locations
+18:43:05 [INFO] Disabling plugins
+18:43:05 [INFO] Closing IO threads
+18:43:24 [INFO] Using mbed TLS based native cipher.
+18:43:24 [INFO] Using zlib based native compressor.
+18:43:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+18:43:24 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:43:24 [INFO] Epoll is working, utilising it!
+18:43:24 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:43:24 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [WARNING] Forced host server pvp is not defined
+18:43:24 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+18:43:24 [INFO] Listening on /0.0.0.0:25565
+18:43:37 [INFO] [/127.0.0.1:37112] <-> InitialHandler has pinged
+18:43:37 [INFO] [PureVoidy,/[0:0:0:0:0:0:0:1%0]:43438] <-> InitialHandler has connected
+18:43:37 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+18:43:52 [INFO] [/127.0.0.1:37114] <-> InitialHandler has pinged
+18:44:22 [INFO] [/127.0.0.1:37118] <-> InitialHandler has pinged
+18:44:37 [WARNING] [/127.0.0.1:37116] <-> InitialHandler - read timed out
+18:44:37 [INFO] [/127.0.0.1:37120] <-> InitialHandler has pinged
+18:45:07 [INFO] [/127.0.0.1:37124] <-> InitialHandler has pinged
+18:45:07 [WARNING] [/127.0.0.1:37120] <-> InitialHandler - read timed out
+18:45:22 [INFO] [/127.0.0.1:37126] <-> InitialHandler has pinged
+18:45:22 [WARNING] [/127.0.0.1:37122] <-> InitialHandler - read timed out
+18:45:37 [INFO] [/127.0.0.1:37130] <-> InitialHandler has pinged
+18:45:52 [WARNING] [/127.0.0.1:37126] <-> InitialHandler - read timed out
+18:45:52 [INFO] [/127.0.0.1:37132] <-> InitialHandler has pinged
+18:46:07 [INFO] [/127.0.0.1:37134] <-> InitialHandler has pinged
+18:46:22 [INFO] [/127.0.0.1:37136] <-> InitialHandler has pinged
+18:46:22 [WARNING] [/127.0.0.1:37132] <-> InitialHandler - read timed out
+18:46:30 [SEVERE] Exception in thread "main" 
+18:46:30 [SEVERE] java.io.IOException: Input/output error
+
+18:46:30 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+18:46:30 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+18:46:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+18:46:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+18:46:30 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+18:46:30 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+18:46:30 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+18:46:30 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+18:46:30 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+18:46:30 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+18:46:30 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+18:46:30 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+18:46:30 [INFO] Closing listener [id: 0x663a6154, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:46:30 [INFO] Closing pending connections
+18:46:30 [INFO] Disconnecting 1 connections
+18:46:30 [INFO] [PureVoidy] disconnected with: §f[Proxy] Proxy restarting.
+18:46:30 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+18:46:30 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+18:46:31 [INFO] Saving reconnect locations
+18:46:31 [INFO] Disabling plugins
+18:46:31 [INFO] Closing IO threads
+19:09:36 [INFO] Using mbed TLS based native cipher.
+19:09:36 [INFO] Using zlib based native compressor.
+19:09:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+19:09:36 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:09:36 [INFO] Epoll is working, utilising it!
+19:09:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:09:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [WARNING] Forced host server pvp is not defined
+19:09:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:09:36 [INFO] Listening on /0.0.0.0:25565
+19:11:49 [INFO] [/[0:0:0:0:0:0:0:1%0]:43446] <-> InitialHandler has connected
+19:11:49 [INFO] [/127.0.0.1:37138] <-> InitialHandler has pinged
+19:11:49 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+19:12:04 [INFO] [/127.0.0.1:37140] <-> InitialHandler has pinged
+19:12:19 [INFO] [/127.0.0.1:37142] <-> InitialHandler has pinged
+19:12:34 [INFO] [/127.0.0.1:37144] <-> InitialHandler has pinged
+19:12:49 [INFO] [/127.0.0.1:37146] <-> InitialHandler has pinged
+19:12:49 [WARNING] [/127.0.0.1:37142] <-> InitialHandler - read timed out
+19:13:04 [WARNING] [/127.0.0.1:37144] <-> InitialHandler - read timed out
+19:13:19 [WARNING] [/127.0.0.1:37146] <-> InitialHandler - read timed out
+19:13:19 [INFO] [/127.0.0.1:37150] <-> InitialHandler has pinged
+19:13:34 [WARNING] [/127.0.0.1:37148] <-> InitialHandler - read timed out
+19:13:34 [INFO] [/127.0.0.1:37152] <-> InitialHandler has pinged
+19:13:49 [INFO] [/127.0.0.1:37154] <-> InitialHandler has pinged
+19:13:53 [INFO] Closing listener [id: 0xa6da0b13, L:/[0:0:0:0:0:0:0:0%0]:25565]
+19:13:53 [INFO] Closing pending connections
+19:13:53 [INFO] Disconnecting 1 connections
+19:13:53 [INFO] [PureVoidy] disconnected with: §f[Proxy] Proxy restarting.
+19:13:53 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+19:13:53 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+19:13:53 [INFO] Saving reconnect locations
+19:13:53 [INFO] Disabling plugins
+19:13:53 [INFO] Closing IO threads
+19:14:00 [INFO] Using mbed TLS based native cipher.
+19:14:00 [INFO] Using zlib based native compressor.
+19:14:00 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+19:14:00 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:14:00 [INFO] Epoll is working, utilising it!
+19:14:00 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:14:00 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [WARNING] Forced host server pvp is not defined
+19:14:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:14:00 [INFO] Listening on /0.0.0.0:25565
+19:32:19 [SEVERE] Exception in thread "main" 
+19:32:19 [INFO] Closing listener [id: 0x122efa5d, L:/[0:0:0:0:0:0:0:0%0]:25565]
+19:32:19 [INFO] Closing pending connections
+19:32:19 [INFO] Disconnecting 0 connections
+19:32:19 [SEVERE] java.io.IOException: Input/output error
+
+19:32:19 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+19:32:19 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+19:32:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+19:32:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+19:32:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+19:32:19 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+19:32:19 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+19:32:19 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+19:32:19 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+19:32:19 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+19:32:19 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+19:32:19 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+19:32:20 [INFO] Saving reconnect locations
+19:32:20 [INFO] Disabling plugins
+19:32:20 [INFO] Closing IO threads
+19:32:48 [INFO] Using mbed TLS based native cipher.
+19:32:48 [INFO] Using zlib based native compressor.
+19:32:48 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+19:32:48 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:32:48 [INFO] Epoll is working, utilising it!
+19:32:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:32:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [WARNING] Forced host server pvp is not defined
+19:32:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:32:49 [INFO] Listening on /0.0.0.0:25565
+19:34:20 [INFO] [/[0:0:0:0:0:0:0:1%0]:43448] <-> InitialHandler has connected
+19:34:20 [INFO] [/127.0.0.1:37156] <-> InitialHandler has pinged
+19:34:20 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+19:34:35 [INFO] [/127.0.0.1:37158] <-> InitialHandler has pinged
+19:34:50 [INFO] [/127.0.0.1:37160] <-> InitialHandler has pinged
+19:35:05 [INFO] [/127.0.0.1:37162] <-> InitialHandler has pinged
+19:35:05 [WARNING] [/127.0.0.1:37158] <-> InitialHandler - read timed out
+19:35:20 [INFO] [/127.0.0.1:37164] <-> InitialHandler has pinged
+19:35:20 [WARNING] [/127.0.0.1:37160] <-> InitialHandler - read timed out
+19:35:35 [WARNING] [/127.0.0.1:37162] <-> InitialHandler - read timed out
+19:35:35 [INFO] [/127.0.0.1:37166] <-> InitialHandler has pinged
+19:35:50 [INFO] [/127.0.0.1:37168] <-> InitialHandler has pinged
+19:36:05 [WARNING] [/127.0.0.1:37166] <-> InitialHandler - read timed out
+19:36:05 [INFO] [/127.0.0.1:37170] <-> InitialHandler has pinged
+19:36:20 [WARNING] [/127.0.0.1:37168] <-> InitialHandler - read timed out
+19:36:20 [INFO] [/127.0.0.1:37172] <-> InitialHandler has pinged
+19:36:35 [INFO] [/127.0.0.1:37174] <-> InitialHandler has pinged
+19:36:50 [INFO] [/127.0.0.1:37176] <-> InitialHandler has pinged
+19:37:05 [INFO] [/127.0.0.1:37178] <-> InitialHandler has pinged
+19:37:05 [WARNING] [/127.0.0.1:37174] <-> InitialHandler - read timed out
+19:37:20 [WARNING] [/127.0.0.1:37176] <-> InitialHandler - read timed out
+19:37:20 [INFO] [/127.0.0.1:37180] <-> InitialHandler has pinged
+19:37:35 [INFO] [/127.0.0.1:37182] <-> InitialHandler has pinged
+19:37:50 [INFO] [/127.0.0.1:37184] <-> InitialHandler has pinged
+19:38:05 [WARNING] [/127.0.0.1:37182] <-> InitialHandler - read timed out
+19:38:05 [INFO] [/127.0.0.1:37186] <-> InitialHandler has pinged
+19:38:20 [INFO] [/127.0.0.1:37188] <-> InitialHandler has pinged
+19:38:35 [INFO] [/127.0.0.1:37190] <-> InitialHandler has pinged
+19:38:50 [WARNING] [/127.0.0.1:37188] <-> InitialHandler - read timed out
+19:39:05 [INFO] [/127.0.0.1:37194] <-> InitialHandler has pinged
+19:39:20 [WARNING] [/127.0.0.1:37192] <-> InitialHandler - read timed out
+19:39:20 [INFO] [/127.0.0.1:37196] <-> InitialHandler has pinged
+19:39:35 [INFO] [/127.0.0.1:37198] <-> InitialHandler has pinged
+19:39:50 [WARNING] [/127.0.0.1:37196] <-> InitialHandler - read timed out
+19:39:50 [INFO] [/127.0.0.1:37200] <-> InitialHandler has pinged
+19:40:05 [INFO] [/127.0.0.1:37202] <-> InitialHandler has pinged
+19:40:20 [INFO] [/127.0.0.1:37204] <-> InitialHandler has pinged
+19:40:35 [INFO] [/127.0.0.1:37206] <-> InitialHandler has pinged
+19:40:35 [WARNING] [/127.0.0.1:37202] <-> InitialHandler - read timed out
+19:40:50 [INFO] [/127.0.0.1:37208] <-> InitialHandler has pinged
+19:41:05 [INFO] [/127.0.0.1:37210] <-> InitialHandler has pinged
+19:41:20 [INFO] [/127.0.0.1:37212] <-> InitialHandler has pinged
+19:41:35 [INFO] [/127.0.0.1:37214] <-> InitialHandler has pinged
+19:41:50 [WARNING] [/127.0.0.1:37212] <-> InitialHandler - read timed out
+19:41:50 [INFO] [/127.0.0.1:37216] <-> InitialHandler has pinged
+19:42:05 [WARNING] [/127.0.0.1:37214] <-> InitialHandler - read timed out
+19:42:05 [INFO] [/127.0.0.1:37218] <-> InitialHandler has pinged
+19:42:20 [WARNING] [/127.0.0.1:37216] <-> InitialHandler - read timed out
+19:42:20 [INFO] [/127.0.0.1:37220] <-> InitialHandler has pinged
+19:42:35 [INFO] [/127.0.0.1:37222] <-> InitialHandler has pinged
+19:42:50 [INFO] [/127.0.0.1:37224] <-> InitialHandler has pinged
+19:43:05 [INFO] [/127.0.0.1:37226] <-> InitialHandler has pinged
+19:43:20 [INFO] [/127.0.0.1:37228] <-> InitialHandler has pinged
+19:43:35 [INFO] [/127.0.0.1:37230] <-> InitialHandler has pinged
+19:43:50 [INFO] [/127.0.0.1:37232] <-> InitialHandler has pinged
+19:43:50 [WARNING] [/127.0.0.1:37228] <-> InitialHandler - read timed out
+19:44:05 [INFO] [/127.0.0.1:37234] <-> InitialHandler has pinged
+19:44:20 [INFO] [/127.0.0.1:37236] <-> InitialHandler has pinged
+19:44:50 [INFO] [/127.0.0.1:37240] <-> InitialHandler has pinged
+19:45:05 [INFO] [/127.0.0.1:37244] <-> InitialHandler has pinged
+19:45:05 [WARNING] [/127.0.0.1:37238] <-> InitialHandler - read timed out
+19:45:20 [INFO] [/127.0.0.1:37246] <-> InitialHandler has pinged
+19:45:35 [INFO] [/127.0.0.1:37248] <-> InitialHandler has pinged
+19:46:05 [INFO] [/127.0.0.1:37252] <-> InitialHandler has pinged
+19:46:05 [WARNING] [/127.0.0.1:37248] <-> InitialHandler - read timed out
+19:46:20 [INFO] [/127.0.0.1:37256] <-> InitialHandler has pinged
+19:46:20 [WARNING] [/127.0.0.1:37250] <-> InitialHandler - read timed out
+19:46:35 [WARNING] [/127.0.0.1:37252] <-> InitialHandler - read timed out
+19:46:35 [INFO] [/127.0.0.1:37258] <-> InitialHandler has pinged
+19:46:50 [INFO] [/127.0.0.1:37260] <-> InitialHandler has pinged
+19:47:05 [INFO] [/127.0.0.1:37264] <-> InitialHandler has pinged
+19:47:20 [INFO] [/127.0.0.1:37266] <-> InitialHandler has pinged
+19:47:35 [WARNING] [/127.0.0.1:37264] <-> InitialHandler - read timed out
+19:47:35 [INFO] [/127.0.0.1:37268] <-> InitialHandler has pinged
+19:47:50 [INFO] [/127.0.0.1:37270] <-> InitialHandler has pinged
+19:48:05 [INFO] [/127.0.0.1:37272] <-> InitialHandler has pinged
+19:48:50 [WARNING] [/127.0.0.1:37274] <-> InitialHandler - read timed out
+19:48:50 [INFO] [/127.0.0.1:37278] <-> InitialHandler has pinged
+19:49:05 [INFO] [/127.0.0.1:37280] <-> InitialHandler has pinged
+19:49:05 [WARNING] [/127.0.0.1:37276] <-> InitialHandler - read timed out
+19:49:20 [INFO] [/127.0.0.1:37282] <-> InitialHandler has pinged
+19:49:35 [INFO] [/127.0.0.1:37284] <-> InitialHandler has pinged
+19:49:50 [INFO] [/127.0.0.1:37286] <-> InitialHandler has pinged
+19:50:05 [WARNING] [/127.0.0.1:37284] <-> InitialHandler - read timed out
+19:50:05 [INFO] [/127.0.0.1:37288] <-> InitialHandler has pinged
+19:50:20 [INFO] [/127.0.0.1:37290] <-> InitialHandler has pinged
+19:50:35 [INFO] [/127.0.0.1:37292] <-> InitialHandler has pinged
+19:50:50 [INFO] [/127.0.0.1:37294] <-> InitialHandler has pinged
+19:50:50 [WARNING] [/127.0.0.1:37290] <-> InitialHandler - read timed out
+19:51:20 [WARNING] [/127.0.0.1:37294] <-> InitialHandler - read timed out
+19:51:35 [WARNING] [/127.0.0.1:37296] <-> InitialHandler - read timed out
+19:51:35 [INFO] [/127.0.0.1:37300] <-> InitialHandler has pinged
+19:51:50 [INFO] [/127.0.0.1:37302] <-> InitialHandler has pinged
+19:51:50 [WARNING] [/127.0.0.1:37298] <-> InitialHandler - read timed out
+19:52:05 [INFO] [/127.0.0.1:37304] <-> InitialHandler has pinged
+19:52:20 [WARNING] [/127.0.0.1:37302] <-> InitialHandler - read timed out
+19:52:35 [INFO] [/127.0.0.1:37320] <-> InitialHandler has pinged
+19:52:50 [INFO] [/127.0.0.1:37322] <-> InitialHandler has pinged
+19:52:50 [WARNING] [/127.0.0.1:37318] <-> InitialHandler - read timed out
+19:53:05 [INFO] [/127.0.0.1:37324] <-> InitialHandler has pinged
+19:53:20 [INFO] [/127.0.0.1:37326] <-> InitialHandler has pinged
+19:53:35 [INFO] [/127.0.0.1:37328] <-> InitialHandler has pinged
+19:53:50 [INFO] [/127.0.0.1:37330] <-> InitialHandler has pinged
+19:53:50 [WARNING] [/127.0.0.1:37326] <-> InitialHandler - read timed out
+19:54:05 [INFO] [/127.0.0.1:37332] <-> InitialHandler has pinged
+19:54:05 [WARNING] [/127.0.0.1:37328] <-> InitialHandler - read timed out
+19:54:20 [WARNING] [/127.0.0.1:37330] <-> InitialHandler - read timed out
+19:54:20 [INFO] [/127.0.0.1:37334] <-> InitialHandler has pinged
+19:54:35 [WARNING] [/127.0.0.1:37332] <-> InitialHandler - read timed out
+19:54:35 [INFO] [/127.0.0.1:37336] <-> InitialHandler has pinged
+19:55:05 [INFO] [/127.0.0.1:37340] <-> InitialHandler has pinged
+19:55:20 [INFO] [/127.0.0.1:37342] <-> InitialHandler has pinged
+19:55:20 [WARNING] [/127.0.0.1:37338] <-> InitialHandler - read timed out
+19:55:35 [INFO] [/127.0.0.1:37346] <-> InitialHandler has pinged
+19:55:50 [INFO] [/127.0.0.1:37348] <-> InitialHandler has pinged
+19:55:50 [WARNING] [/127.0.0.1:37342] <-> InitialHandler - read timed out
+19:55:59 [INFO] [PureVoidy] disconnected with: §fServer closed
+19:55:59 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+19:55:59 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+19:56:05 [WARNING] [/127.0.0.1:37346] <-> InitialHandler - read timed out
+19:56:05 [INFO] Closing listener [id: 0x99f5985a, L:/[0:0:0:0:0:0:0:0%0]:25565]
+19:56:05 [INFO] Closing pending connections
+19:56:05 [INFO] Disconnecting 0 connections
+19:56:06 [INFO] Saving reconnect locations
+19:56:06 [INFO] Disabling plugins
+19:56:06 [INFO] Closing IO threads
+19:56:18 [INFO] Using mbed TLS based native cipher.
+19:56:18 [INFO] Using zlib based native compressor.
+19:56:18 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+19:56:18 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:56:18 [INFO] Epoll is working, utilising it!
+19:56:18 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:56:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [WARNING] Forced host server pvp is not defined
+19:56:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+19:56:18 [INFO] Listening on /0.0.0.0:25565
+20:09:17 [SEVERE] Exception in thread "main" 
+20:09:17 [SEVERE] java.io.IOException: Input/output error
+
+20:09:17 [INFO] Closing listener [id: 0x6aa5d330, L:/[0:0:0:0:0:0:0:0%0]:25565]
+20:09:17 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+20:09:17 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+20:09:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+20:09:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+20:09:17 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+20:09:17 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+20:09:17 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+20:09:17 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+20:09:17 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+20:09:17 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+20:09:17 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+20:09:17 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+20:09:17 [INFO] Closing pending connections
+20:09:17 [INFO] Disconnecting 0 connections
+20:09:17 [INFO] Saving reconnect locations
+20:09:17 [INFO] Disabling plugins
+20:09:17 [INFO] Closing IO threads
+20:12:49 [INFO] Using mbed TLS based native cipher.
+20:12:49 [INFO] Using zlib based native compressor.
+20:12:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+20:12:49 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:12:49 [INFO] Epoll is working, utilising it!
+20:12:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:12:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [WARNING] Forced host server pvp is not defined
+20:12:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:12:49 [INFO] Listening on /0.0.0.0:25565
+20:13:29 [INFO] [/[0:0:0:0:0:0:0:1%0]:43454] <-> InitialHandler has connected
+20:13:29 [INFO] [/127.0.0.1:37352] <-> InitialHandler has pinged
+20:13:29 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+20:13:59 [INFO] [/127.0.0.1:37356] <-> InitialHandler has pinged
+20:14:14 [INFO] [/127.0.0.1:37358] <-> InitialHandler has pinged
+20:14:14 [WARNING] [/127.0.0.1:37354] <-> InitialHandler - read timed out
+20:14:29 [INFO] [/127.0.0.1:37360] <-> InitialHandler has pinged
+20:14:44 [INFO] [/127.0.0.1:37362] <-> InitialHandler has pinged
+20:14:59 [INFO] [/127.0.0.1:37364] <-> InitialHandler has pinged
+20:15:14 [INFO] [/127.0.0.1:37366] <-> InitialHandler has pinged
+20:15:29 [INFO] [/127.0.0.1:37368] <-> InitialHandler has pinged
+20:15:44 [INFO] [/127.0.0.1:37370] <-> InitialHandler has pinged
+20:15:59 [WARNING] [/127.0.0.1:37368] <-> InitialHandler - read timed out
+20:15:59 [INFO] [/127.0.0.1:37372] <-> InitialHandler has pinged
+20:16:14 [INFO] [/127.0.0.1:37374] <-> InitialHandler has pinged
+20:16:29 [INFO] [/127.0.0.1:37376] <-> InitialHandler has pinged
+20:16:59 [INFO] [/127.0.0.1:37380] <-> InitialHandler has pinged
+20:17:14 [WARNING] [/127.0.0.1:37378] <-> InitialHandler - read timed out
+20:17:14 [INFO] [/127.0.0.1:37382] <-> InitialHandler has pinged
+20:17:29 [WARNING] [/127.0.0.1:37380] <-> InitialHandler - read timed out
+20:17:29 [INFO] [/127.0.0.1:37384] <-> InitialHandler has pinged
+20:17:44 [INFO] [/127.0.0.1:37388] <-> InitialHandler has pinged
+20:17:44 [WARNING] [/127.0.0.1:37382] <-> InitialHandler - read timed out
+20:17:59 [INFO] [/127.0.0.1:37390] <-> InitialHandler has pinged
+20:18:14 [INFO] [/127.0.0.1:37392] <-> InitialHandler has pinged
+20:18:29 [INFO] [/127.0.0.1:37394] <-> InitialHandler has pinged
+20:18:29 [WARNING] [/127.0.0.1:37390] <-> InitialHandler - read timed out
+20:18:44 [INFO] [/127.0.0.1:37396] <-> InitialHandler has pinged
+20:18:44 [WARNING] [/127.0.0.1:37392] <-> InitialHandler - read timed out
+20:18:59 [INFO] [/127.0.0.1:37398] <-> InitialHandler has pinged
+20:19:14 [INFO] [/127.0.0.1:37400] <-> InitialHandler has pinged
+20:19:29 [INFO] [/127.0.0.1:37402] <-> InitialHandler has pinged
+20:19:44 [INFO] [/127.0.0.1:37404] <-> InitialHandler has pinged
+20:20:14 [INFO] [/127.0.0.1:37408] <-> InitialHandler has pinged
+20:20:14 [WARNING] [/127.0.0.1:37404] <-> InitialHandler - read timed out
+20:20:29 [INFO] [/127.0.0.1:37410] <-> InitialHandler has pinged
+20:20:29 [WARNING] [/127.0.0.1:37406] <-> InitialHandler - read timed out
+20:20:44 [INFO] [/127.0.0.1:37412] <-> InitialHandler has pinged
+20:20:44 [WARNING] [/127.0.0.1:37408] <-> InitialHandler - read timed out
+20:20:53 [INFO] [PureVoidy] disconnected with: §fServer closed
+20:20:53 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+20:20:53 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+20:28:06 [INFO] Closing listener [id: 0xcd29dcb9, L:/[0:0:0:0:0:0:0:0%0]:25565]
+20:28:06 [INFO] Closing pending connections
+20:28:06 [INFO] Disconnecting 0 connections
+20:28:07 [INFO] Saving reconnect locations
+20:28:07 [INFO] Disabling plugins
+20:28:07 [INFO] Closing IO threads
+20:28:08 [INFO] Thank you and goodbye
+20:28:12 [INFO] Using mbed TLS based native cipher.
+20:28:12 [INFO] Using zlib based native compressor.
+20:28:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+20:28:12 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:28:12 [INFO] Epoll is working, utilising it!
+20:28:13 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:28:13 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:28:13 [SEVERE] Exception in thread "main" 
+20:28:13 [SEVERE] java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Integer (java.lang.String and java.lang.Integer are in module java.base of loader 'bootstrap')
+
+20:28:13 [SEVERE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:264)
+
+20:28:13 [SEVERE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:85)
+
+20:28:13 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:272)
+
+20:28:13 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+20:28:13 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+20:29:07 [INFO] Using mbed TLS based native cipher.
+20:29:07 [INFO] Using zlib based native compressor.
+20:29:07 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+20:29:07 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:29:07 [INFO] Epoll is working, utilising it!
+20:29:07 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:29:07 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:07 [SEVERE] Exception in thread "main" 
+20:29:07 [SEVERE] java.lang.ClassCastException: class java.lang.Integer cannot be cast to class java.lang.String (java.lang.Integer and java.lang.String are in module java.base of loader 'bootstrap')
+
+20:29:07 [SEVERE] 	at net.md_5.bungee.conf.YamlConfig.getServers(YamlConfig.java:218)
+
+20:29:07 [SEVERE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:106)
+
+20:29:07 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:272)
+
+20:29:07 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+20:29:07 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+20:29:46 [INFO] Using mbed TLS based native cipher.
+20:29:46 [INFO] Using zlib based native compressor.
+20:29:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+20:29:46 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:29:46 [INFO] Epoll is working, utilising it!
+20:29:46 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:29:46 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [WARNING] Forced host server pvp is not defined
+20:29:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:29:46 [INFO] Listening on /0.0.0.0:25565
+20:29:48 [SEVERE] Exception in thread "main" 
+20:29:48 [SEVERE] java.io.IOException: Input/output error
+
+20:29:48 [INFO] Closing listener [id: 0x0abf979c, L:/[0:0:0:0:0:0:0:0%0]:25565]
+20:29:48 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+20:29:48 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+20:29:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+20:29:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+20:29:48 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+20:29:48 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+20:29:48 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+20:29:48 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+20:29:48 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+20:29:48 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+20:29:48 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+20:29:48 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+20:29:48 [INFO] Closing pending connections
+20:29:48 [INFO] Disconnecting 0 connections
+20:29:48 [INFO] Saving reconnect locations
+20:29:48 [INFO] Disabling plugins
+20:29:48 [INFO] Closing IO threads
+20:30:20 [INFO] Using mbed TLS based native cipher.
+20:30:20 [INFO] Using zlib based native compressor.
+20:30:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:b4ccdaa:1625
+20:30:20 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:30:20 [INFO] Epoll is working, utilising it!
+20:30:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:30:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [WARNING] Forced host server pvp is not defined
+20:30:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:b4ccdaa:1625 by SpigotMC
+20:30:20 [INFO] Listening on /0.0.0.0:25565
+21:37:58 [INFO] [/[0:0:0:0:0:0:0:1%0]:43456] <-> InitialHandler has connected
+21:37:58 [INFO] [/127.0.0.1:37414] <-> InitialHandler has pinged
+21:37:58 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+21:38:13 [INFO] [/127.0.0.1:37416] <-> InitialHandler has pinged
+21:38:14 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+21:38:14 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+21:38:43 [WARNING] [/127.0.0.1:37416] <-> InitialHandler - read timed out
+21:42:30 [INFO] [/127.0.0.1:37418] <-> InitialHandler has pinged
+21:42:30 [INFO] [PureVoidy,/[0:0:0:0:0:0:0:1%0]:43458] <-> InitialHandler has connected
+21:42:30 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+21:42:45 [INFO] [/127.0.0.1:37420] <-> InitialHandler has pinged
+21:43:00 [INFO] [/127.0.0.1:37422] <-> InitialHandler has pinged
+21:43:15 [INFO] [/127.0.0.1:37424] <-> InitialHandler has pinged
+21:43:30 [INFO] [/127.0.0.1:37426] <-> InitialHandler has pinged
+21:43:45 [INFO] [/127.0.0.1:37428] <-> InitialHandler has pinged
+21:43:45 [WARNING] [/127.0.0.1:37424] <-> InitialHandler - read timed out
+21:44:00 [INFO] [/127.0.0.1:37430] <-> InitialHandler has pinged
+21:44:15 [WARNING] [/127.0.0.1:37428] <-> InitialHandler - read timed out
+21:44:15 [INFO] [/127.0.0.1:37432] <-> InitialHandler has pinged
+21:44:30 [INFO] [/127.0.0.1:37434] <-> InitialHandler has pinged
+21:44:30 [WARNING] [/127.0.0.1:37430] <-> InitialHandler - read timed out
+21:44:45 [INFO] [/127.0.0.1:37436] <-> InitialHandler has pinged
+21:45:00 [INFO] [/127.0.0.1:37438] <-> InitialHandler has pinged
+21:45:15 [WARNING] [/127.0.0.1:37436] <-> InitialHandler - read timed out
+21:45:30 [INFO] [/127.0.0.1:37442] <-> InitialHandler has pinged
+21:45:45 [INFO] [/127.0.0.1:37444] <-> InitialHandler has pinged
+21:45:45 [WARNING] [/127.0.0.1:37440] <-> InitialHandler - read timed out
+21:46:00 [INFO] [/127.0.0.1:37446] <-> InitialHandler has pinged
+21:46:15 [WARNING] [/127.0.0.1:37444] <-> InitialHandler - read timed out
+21:46:30 [WARNING] [/127.0.0.1:37446] <-> InitialHandler - read timed out
+21:46:30 [INFO] [/127.0.0.1:37450] <-> InitialHandler has pinged
+21:46:45 [INFO] [/127.0.0.1:37452] <-> InitialHandler has pinged
+21:46:45 [WARNING] [/127.0.0.1:37448] <-> InitialHandler - read timed out
+21:47:00 [INFO] [/127.0.0.1:37454] <-> InitialHandler has pinged
+21:47:00 [WARNING] [/127.0.0.1:37450] <-> InitialHandler - read timed out
+21:47:15 [WARNING] [/127.0.0.1:37452] <-> InitialHandler - read timed out
+21:47:15 [INFO] [/127.0.0.1:37458] <-> InitialHandler has pinged
+21:47:30 [INFO] [/127.0.0.1:37460] <-> InitialHandler has pinged
+21:47:30 [WARNING] [/127.0.0.1:37454] <-> InitialHandler - read timed out
+21:47:45 [INFO] [/127.0.0.1:37462] <-> InitialHandler has pinged
+21:48:00 [WARNING] [/127.0.0.1:37460] <-> InitialHandler - read timed out
+21:48:00 [INFO] [/127.0.0.1:37466] <-> InitialHandler has pinged
+21:48:15 [INFO] [/127.0.0.1:37468] <-> InitialHandler has pinged
+21:48:30 [INFO] [/127.0.0.1:37470] <-> InitialHandler has pinged
+21:48:30 [WARNING] [/127.0.0.1:37466] <-> InitialHandler - read timed out
+21:48:45 [INFO] [/127.0.0.1:37472] <-> InitialHandler has pinged
+21:49:00 [WARNING] [/127.0.0.1:37470] <-> InitialHandler - read timed out
+21:49:00 [INFO] [/127.0.0.1:37474] <-> InitialHandler has pinged
+21:49:30 [WARNING] [/127.0.0.1:37474] <-> InitialHandler - read timed out
+21:49:30 [INFO] [/127.0.0.1:37478] <-> InitialHandler has pinged
+21:49:45 [INFO] [/127.0.0.1:37480] <-> InitialHandler has pinged
+21:49:45 [WARNING] [/127.0.0.1:37476] <-> InitialHandler - read timed out
+21:50:00 [INFO] [/127.0.0.1:37482] <-> InitialHandler has pinged
+21:50:00 [WARNING] [/127.0.0.1:37478] <-> InitialHandler - read timed out
+21:50:15 [INFO] [/127.0.0.1:37484] <-> InitialHandler has pinged
+21:50:30 [INFO] [/127.0.0.1:37486] <-> InitialHandler has pinged
+21:50:30 [WARNING] [/127.0.0.1:37482] <-> InitialHandler - read timed out
+21:50:45 [INFO] [/127.0.0.1:37488] <-> InitialHandler has pinged
+21:51:00 [INFO] [/127.0.0.1:37490] <-> InitialHandler has pinged
+21:51:15 [INFO] [/127.0.0.1:37492] <-> InitialHandler has pinged
+21:51:30 [INFO] [/127.0.0.1:37494] <-> InitialHandler has pinged
+21:51:45 [INFO] [/127.0.0.1:37496] <-> InitialHandler has pinged
+21:52:00 [INFO] [/127.0.0.1:37498] <-> InitialHandler has pinged
+21:52:30 [WARNING] [/127.0.0.1:37498] <-> InitialHandler - read timed out
+21:52:45 [WARNING] [/127.0.0.1:37500] <-> InitialHandler - read timed out
+21:53:00 [WARNING] [/127.0.0.1:37502] <-> InitialHandler - read timed out
+21:53:00 [INFO] [/127.0.0.1:37506] <-> InitialHandler has pinged
+21:53:15 [WARNING] [/127.0.0.1:37504] <-> InitialHandler - read timed out
+21:53:15 [INFO] [/127.0.0.1:37508] <-> InitialHandler has pinged
+21:53:30 [WARNING] [/127.0.0.1:37506] <-> InitialHandler - read timed out
+21:53:30 [INFO] [/127.0.0.1:37510] <-> InitialHandler has pinged
+21:54:00 [INFO] [/127.0.0.1:37514] <-> InitialHandler has pinged
+21:54:15 [WARNING] [/127.0.0.1:37512] <-> InitialHandler - read timed out
+21:54:15 [INFO] [/127.0.0.1:37518] <-> InitialHandler has pinged
+21:54:30 [INFO] [/127.0.0.1:37520] <-> InitialHandler has pinged
+21:54:45 [WARNING] [/127.0.0.1:37518] <-> InitialHandler - read timed out
+21:55:15 [WARNING] [/127.0.0.1:37522] <-> InitialHandler - read timed out
+21:55:30 [INFO] [/127.0.0.1:37528] <-> InitialHandler has pinged
+21:55:30 [WARNING] [/127.0.0.1:37524] <-> InitialHandler - read timed out
+21:55:45 [INFO] [/127.0.0.1:37530] <-> InitialHandler has pinged
+21:55:45 [WARNING] [/127.0.0.1:37526] <-> InitialHandler - read timed out
+21:56:00 [INFO] [/127.0.0.1:37532] <-> InitialHandler has pinged
+21:56:30 [INFO] [/127.0.0.1:37538] <-> InitialHandler has pinged
+21:56:45 [INFO] [/127.0.0.1:37540] <-> InitialHandler has pinged
+21:56:45 [WARNING] [/127.0.0.1:37534] <-> InitialHandler - read timed out
+21:57:00 [INFO] [/127.0.0.1:37542] <-> InitialHandler has pinged
+21:57:00 [WARNING] [/127.0.0.1:37538] <-> InitialHandler - read timed out
+21:57:15 [INFO] [/127.0.0.1:37546] <-> InitialHandler has pinged
+21:57:30 [WARNING] [/127.0.0.1:37542] <-> InitialHandler - read timed out
+21:57:45 [WARNING] [/127.0.0.1:37546] <-> InitialHandler - read timed out
+21:58:00 [WARNING] [/127.0.0.1:37548] <-> InitialHandler - read timed out
+21:58:15 [WARNING] [/127.0.0.1:37550] <-> InitialHandler - read timed out
+21:58:30 [WARNING] [/127.0.0.1:37552] <-> InitialHandler - read timed out
+21:58:45 [WARNING] [/127.0.0.1:37554] <-> InitialHandler - read timed out
+21:58:45 [INFO] [/127.0.0.1:37558] <-> InitialHandler has pinged
+21:59:00 [WARNING] [/127.0.0.1:37556] <-> InitialHandler - read timed out
+21:59:00 [INFO] [/127.0.0.1:37560] <-> InitialHandler has pinged
+21:59:45 [INFO] [/127.0.0.1:37568] <-> InitialHandler has pinged
+21:59:45 [WARNING] [/127.0.0.1:37564] <-> InitialHandler - read timed out
+22:00:00 [INFO] [/127.0.0.1:37570] <-> InitialHandler has pinged
+22:00:00 [WARNING] [/127.0.0.1:37566] <-> InitialHandler - read timed out
+22:00:30 [WARNING] [/127.0.0.1:37570] <-> InitialHandler - read timed out
+22:00:45 [WARNING] [/127.0.0.1:37572] <-> InitialHandler - read timed out
+22:01:00 [INFO] [/127.0.0.1:37578] <-> InitialHandler has pinged
+22:01:00 [WARNING] [/127.0.0.1:37574] <-> InitialHandler - read timed out
+22:01:15 [WARNING] [/127.0.0.1:37576] <-> InitialHandler - read timed out
+22:01:30 [WARNING] [/127.0.0.1:37578] <-> InitialHandler - read timed out
+22:01:30 [INFO] [/127.0.0.1:37582] <-> InitialHandler has pinged
+22:01:45 [WARNING] [/127.0.0.1:37580] <-> InitialHandler - read timed out
+22:02:15 [WARNING] [/127.0.0.1:37584] <-> InitialHandler - read timed out
+22:02:30 [WARNING] [/127.0.0.1:37586] <-> InitialHandler - read timed out
+22:02:30 [INFO] [/127.0.0.1:37590] <-> InitialHandler has pinged
+22:02:45 [WARNING] [/127.0.0.1:37588] <-> InitialHandler - read timed out
+22:03:00 [INFO] [/127.0.0.1:37596] <-> InitialHandler has pinged
+22:03:00 [WARNING] [/127.0.0.1:37590] <-> InitialHandler - read timed out
+22:03:15 [WARNING] [/127.0.0.1:37594] <-> InitialHandler - read timed out
+22:03:15 [INFO] [/127.0.0.1:37598] <-> InitialHandler has pinged
+22:03:45 [WARNING] [/127.0.0.1:37598] <-> InitialHandler - read timed out
+22:04:00 [WARNING] [/127.0.0.1:37600] <-> InitialHandler - read timed out
+22:04:15 [INFO] [/127.0.0.1:37606] <-> InitialHandler has pinged
+22:04:15 [WARNING] [/127.0.0.1:37602] <-> InitialHandler - read timed out
+22:04:30 [WARNING] [/127.0.0.1:37604] <-> InitialHandler - read timed out
+22:05:00 [WARNING] [/127.0.0.1:37608] <-> InitialHandler - read timed out
+22:05:15 [WARNING] [/127.0.0.1:37610] <-> InitialHandler - read timed out
+22:05:30 [WARNING] [/127.0.0.1:37612] <-> InitialHandler - read timed out
+22:05:45 [WARNING] [/127.0.0.1:37614] <-> InitialHandler - read timed out
+22:06:00 [WARNING] [/127.0.0.1:37618] <-> InitialHandler - read timed out
+22:06:15 [WARNING] [/127.0.0.1:37620] <-> InitialHandler - read timed out
+22:06:30 [WARNING] [/127.0.0.1:37622] <-> InitialHandler - read timed out
+22:06:45 [WARNING] [/127.0.0.1:37624] <-> InitialHandler - read timed out
+22:07:00 [WARNING] [/127.0.0.1:37626] <-> InitialHandler - read timed out
+22:07:15 [WARNING] [/127.0.0.1:37628] <-> InitialHandler - read timed out
+22:07:15 [INFO] [/127.0.0.1:37632] <-> InitialHandler has pinged
+22:07:30 [WARNING] [/127.0.0.1:37630] <-> InitialHandler - read timed out
+22:07:45 [INFO] [/127.0.0.1:37636] <-> InitialHandler has pinged
+22:08:00 [WARNING] [/127.0.0.1:37634] <-> InitialHandler - read timed out
+22:08:30 [INFO] [/127.0.0.1:37642] <-> InitialHandler has pinged
+22:08:30 [WARNING] [/127.0.0.1:37638] <-> InitialHandler - read timed out
+22:08:45 [WARNING] [/127.0.0.1:37640] <-> InitialHandler - read timed out
+22:09:15 [WARNING] [/127.0.0.1:37644] <-> InitialHandler - read timed out
+22:09:30 [WARNING] [/127.0.0.1:37646] <-> InitialHandler - read timed out
+22:09:45 [WARNING] [/127.0.0.1:37648] <-> InitialHandler - read timed out
+22:10:00 [WARNING] [/127.0.0.1:37652] <-> InitialHandler - read timed out
+22:10:15 [WARNING] [/127.0.0.1:37654] <-> InitialHandler - read timed out
+22:10:30 [WARNING] [/127.0.0.1:37656] <-> InitialHandler - read timed out
+22:10:45 [WARNING] [/127.0.0.1:37658] <-> InitialHandler - read timed out
+22:11:00 [WARNING] [/127.0.0.1:37660] <-> InitialHandler - read timed out
+22:11:15 [WARNING] [/127.0.0.1:37662] <-> InitialHandler - read timed out
+22:11:15 [INFO] [/127.0.0.1:37668] <-> InitialHandler has pinged
+22:11:30 [WARNING] [/127.0.0.1:37664] <-> InitialHandler - read timed out
+22:12:00 [WARNING] [/127.0.0.1:37670] <-> InitialHandler - read timed out
+22:12:15 [WARNING] [/127.0.0.1:37672] <-> InitialHandler - read timed out
+22:12:30 [WARNING] [/127.0.0.1:37674] <-> InitialHandler - read timed out
+22:12:30 [INFO] [/127.0.0.1:37678] <-> InitialHandler has pinged
+22:12:45 [WARNING] [/127.0.0.1:37676] <-> InitialHandler - read timed out
+22:13:15 [INFO] [/127.0.0.1:37684] <-> InitialHandler has pinged
+22:13:15 [WARNING] [/127.0.0.1:37680] <-> InitialHandler - read timed out
+22:13:30 [WARNING] [/127.0.0.1:37682] <-> InitialHandler - read timed out
+22:14:00 [WARNING] [/127.0.0.1:37686] <-> InitialHandler - read timed out
+22:14:15 [WARNING] [/127.0.0.1:37688] <-> InitialHandler - read timed out
+22:14:30 [WARNING] [/127.0.0.1:37690] <-> InitialHandler - read timed out
+22:14:45 [WARNING] [/127.0.0.1:37694] <-> InitialHandler - read timed out
+22:15:00 [WARNING] [/127.0.0.1:37696] <-> InitialHandler - read timed out
+22:15:00 [INFO] [/127.0.0.1:37700] <-> InitialHandler has pinged
+22:15:15 [WARNING] [/127.0.0.1:37698] <-> InitialHandler - read timed out
+22:15:45 [WARNING] [/127.0.0.1:37702] <-> InitialHandler - read timed out
+22:16:00 [WARNING] [/127.0.0.1:37704] <-> InitialHandler - read timed out
+22:16:15 [WARNING] [/127.0.0.1:37708] <-> InitialHandler - read timed out
+22:16:30 [WARNING] [/127.0.0.1:37710] <-> InitialHandler - read timed out
+22:16:45 [WARNING] [/127.0.0.1:37712] <-> InitialHandler - read timed out
+22:17:00 [WARNING] [/127.0.0.1:37714] <-> InitialHandler - read timed out
+22:17:15 [WARNING] [/127.0.0.1:37716] <-> InitialHandler - read timed out
+22:17:30 [WARNING] [/127.0.0.1:37718] <-> InitialHandler - read timed out
+22:17:45 [WARNING] [/127.0.0.1:37720] <-> InitialHandler - read timed out
+22:17:45 [INFO] [/127.0.0.1:37724] <-> InitialHandler has pinged
+22:18:00 [WARNING] [/127.0.0.1:37722] <-> InitialHandler - read timed out
+22:18:00 [INFO] [/127.0.0.1:37726] <-> InitialHandler has pinged
+22:18:15 [WARNING] [/127.0.0.1:37724] <-> InitialHandler - read timed out
+22:18:45 [WARNING] [/127.0.0.1:37728] <-> InitialHandler - read timed out
+22:19:00 [WARNING] [/127.0.0.1:37730] <-> InitialHandler - read timed out
+22:19:15 [INFO] [/127.0.0.1:37738] <-> InitialHandler has pinged
+22:19:15 [WARNING] [/127.0.0.1:37732] <-> InitialHandler - read timed out
+22:19:30 [WARNING] [/127.0.0.1:37736] <-> InitialHandler - read timed out
+22:19:45 [INFO] [/127.0.0.1:37742] <-> InitialHandler has pinged
+22:20:00 [WARNING] [/127.0.0.1:37740] <-> InitialHandler - read timed out
+22:20:30 [WARNING] [/127.0.0.1:37744] <-> InitialHandler - read timed out
+22:20:45 [WARNING] [/127.0.0.1:37746] <-> InitialHandler - read timed out
+22:21:00 [WARNING] [/127.0.0.1:37748] <-> InitialHandler - read timed out
+22:21:15 [WARNING] [/127.0.0.1:37750] <-> InitialHandler - read timed out
+22:21:30 [WARNING] [/127.0.0.1:37752] <-> InitialHandler - read timed out
+22:21:45 [WARNING] [/127.0.0.1:37754] <-> InitialHandler - read timed out
+22:22:00 [WARNING] [/127.0.0.1:37756] <-> InitialHandler - read timed out
+22:22:15 [WARNING] [/127.0.0.1:37758] <-> InitialHandler - read timed out
+22:22:15 [INFO] [/127.0.0.1:37762] <-> InitialHandler has pinged
+22:22:30 [WARNING] [/127.0.0.1:37760] <-> InitialHandler - read timed out
+22:23:00 [WARNING] [/127.0.0.1:37764] <-> InitialHandler - read timed out
+22:23:15 [WARNING] [/127.0.0.1:37766] <-> InitialHandler - read timed out
+22:23:30 [WARNING] [/127.0.0.1:37768] <-> InitialHandler - read timed out
+22:23:45 [WARNING] [/127.0.0.1:37770] <-> InitialHandler - read timed out
+22:24:00 [WARNING] [/127.0.0.1:37772] <-> InitialHandler - read timed out
+22:24:15 [WARNING] [/127.0.0.1:37774] <-> InitialHandler - read timed out
+22:24:30 [WARNING] [/127.0.0.1:37776] <-> InitialHandler - read timed out
+22:24:45 [WARNING] [/127.0.0.1:37778] <-> InitialHandler - read timed out
+22:25:00 [WARNING] [/127.0.0.1:37780] <-> InitialHandler - read timed out
+22:25:15 [INFO] [/127.0.0.1:37786] <-> InitialHandler has pinged
+22:25:15 [WARNING] [/127.0.0.1:37782] <-> InitialHandler - read timed out
+22:25:30 [WARNING] [/127.0.0.1:37784] <-> InitialHandler - read timed out
+22:25:45 [WARNING] [/127.0.0.1:37786] <-> InitialHandler - read timed out
+22:26:00 [WARNING] [/127.0.0.1:37788] <-> InitialHandler - read timed out
+22:26:15 [WARNING] [/127.0.0.1:37790] <-> InitialHandler - read timed out
+22:26:30 [WARNING] [/127.0.0.1:37792] <-> InitialHandler - read timed out
+22:26:45 [WARNING] [/127.0.0.1:37794] <-> InitialHandler - read timed out
+22:27:00 [WARNING] [/127.0.0.1:37796] <-> InitialHandler - read timed out
+22:27:15 [WARNING] [/127.0.0.1:37798] <-> InitialHandler - read timed out
+22:27:30 [WARNING] [/127.0.0.1:37800] <-> InitialHandler - read timed out
+22:27:45 [WARNING] [/127.0.0.1:37802] <-> InitialHandler - read timed out
+22:28:00 [WARNING] [/127.0.0.1:37804] <-> InitialHandler - read timed out
+22:28:00 [INFO] [/127.0.0.1:37810] <-> InitialHandler has pinged
+22:28:15 [WARNING] [/127.0.0.1:37808] <-> InitialHandler - read timed out
+22:28:15 [INFO] [/127.0.0.1:37812] <-> InitialHandler has pinged
+22:28:30 [INFO] [/127.0.0.1:37814] <-> InitialHandler has pinged
+22:28:45 [INFO] [/127.0.0.1:37816] <-> InitialHandler has pinged
+22:29:00 [INFO] [/127.0.0.1:37818] <-> InitialHandler has pinged
+22:29:15 [INFO] [/127.0.0.1:37820] <-> InitialHandler has pinged
+22:29:30 [INFO] [/127.0.0.1:37822] <-> InitialHandler has pinged
+22:29:30 [WARNING] [/127.0.0.1:37818] <-> InitialHandler - read timed out
+22:29:45 [WARNING] [/127.0.0.1:37820] <-> InitialHandler - read timed out
+22:30:00 [INFO] [/127.0.0.1:37828] <-> InitialHandler has pinged
+22:30:00 [WARNING] [/127.0.0.1:37822] <-> InitialHandler - read timed out
+22:30:15 [WARNING] [/127.0.0.1:37826] <-> InitialHandler - read timed out
+22:30:15 [INFO] [/127.0.0.1:37830] <-> InitialHandler has pinged
+22:30:30 [WARNING] [/127.0.0.1:37828] <-> InitialHandler - read timed out
+22:30:30 [INFO] [/127.0.0.1:37832] <-> InitialHandler has pinged
+22:30:45 [INFO] [/127.0.0.1:37834] <-> InitialHandler has pinged
+22:31:00 [WARNING] [/127.0.0.1:37832] <-> InitialHandler - read timed out
+22:31:15 [INFO] [/127.0.0.1:37838] <-> InitialHandler has pinged
+22:31:30 [WARNING] [/127.0.0.1:37836] <-> InitialHandler - read timed out
+22:31:45 [INFO] [/127.0.0.1:37842] <-> InitialHandler has pinged
+22:32:00 [INFO] [/127.0.0.1:37844] <-> InitialHandler has pinged
+22:32:00 [WARNING] [/127.0.0.1:37840] <-> InitialHandler - read timed out
+22:32:15 [INFO] [/127.0.0.1:37846] <-> InitialHandler has pinged
+22:32:30 [WARNING] [/127.0.0.1:37844] <-> InitialHandler - read timed out
+22:32:30 [INFO] [/127.0.0.1:37848] <-> InitialHandler has pinged
+22:32:45 [INFO] [/127.0.0.1:37850] <-> InitialHandler has pinged
+22:33:00 [INFO] [/127.0.0.1:37852] <-> InitialHandler has pinged
+22:33:45 [WARNING] [/127.0.0.1:37854] <-> InitialHandler - read timed out
+22:33:53 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+22:33:53 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+22:34:00 [WARNING] [/127.0.0.1:37856] <-> InitialHandler - read timed out
+22:34:00 [INFO] [PureVoidy,/192.168.1.35:37532] <-> InitialHandler has connected
+22:34:00 [INFO] [PureVoidy] <-> ServerConnector [lobby] has connected
+22:34:00 [INFO] [/192.168.1.35:37534] <-> InitialHandler has pinged
+22:34:15 [WARNING] [/127.0.0.1:37858] <-> InitialHandler - read timed out
+22:34:15 [INFO] [/192.168.1.35:37536] <-> InitialHandler has pinged
+22:34:30 [INFO] [/192.168.1.35:37538] <-> InitialHandler has pinged
+22:34:45 [INFO] [/192.168.1.35:37540] <-> InitialHandler has pinged
+22:35:00 [INFO] [/192.168.1.35:37542] <-> InitialHandler has pinged
+22:35:15 [INFO] [/192.168.1.35:37544] <-> InitialHandler has pinged
+22:35:30 [INFO] [/192.168.1.35:37546] <-> InitialHandler has pinged
+22:35:45 [INFO] [/192.168.1.35:37548] <-> InitialHandler has pinged
+22:35:48 [INFO] [PureVoidy] -> UpstreamBridge has disconnected
+22:35:48 [INFO] [PureVoidy] <-> DownstreamBridge <-> [lobby] has disconnected
+22:45:39 [SEVERE] Exception in thread "main" 
+22:45:39 [SEVERE] java.io.IOException: Input/output error
+
+22:45:39 [SEVERE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+22:45:39 [SEVERE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+
+22:45:39 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+22:45:39 [INFO] Closing listener [id: 0x946a8c1d, L:/[0:0:0:0:0:0:0:0%0]:25565]
+22:45:39 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+22:45:39 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+22:45:39 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+22:45:39 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+22:45:39 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+22:45:39 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+22:45:39 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+22:45:39 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+22:45:39 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+22:45:39 [INFO] Closing pending connections
+22:45:39 [INFO] Disconnecting 0 connections
+22:45:39 [INFO] Saving reconnect locations
+22:45:39 [INFO] Disabling plugins
+22:45:39 [INFO] Closing IO threads
+22:45:41 [INFO] Thank you and goodbye

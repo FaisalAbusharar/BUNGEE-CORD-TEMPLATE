@@ -1,0 +1,16 @@
+[22:30:11] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:30:11] [Server thread/INFO]: Loading properties
+[22:30:11] [Server thread/INFO]: Default game type: SURVIVAL
+[22:30:11] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:30:11] [Server thread/INFO]: Debug logging is disabled
+[22:30:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[22:30:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:30:11] [Server thread/INFO]: Generating keypair
+[22:30:12] [Server thread/INFO]: Starting Minecraft server on *:25566
+[22:30:12] [Server thread/INFO]: Using epoll channel type
+[22:30:12] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[22:30:12] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[22:30:12] [Server thread/WARN]: Perhaps a server is already running on that port?
+[22:30:12] [Server thread/INFO]: Stopping server
+[22:30:12] [Server thread/INFO]: Saving players
